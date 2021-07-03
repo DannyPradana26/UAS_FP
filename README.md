@@ -1,8 +1,8 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Surat Keluar ](http://uas-danny-18090129.herokuapp.com/) klik
+
 #### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
+- Nama  : Danny Pradana
+- NIM   : 18090129
 - Kelas : 6B
 #### Tools
 - Laravel       : Framework PHP
